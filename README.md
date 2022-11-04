@@ -5,6 +5,7 @@ I am currently a fourth-year at the University of Texas at Austin. I am studying
 
 In the past two years I have become very interested in alternative data creation and structuring. Finding unique ways to collect unstructured data and make it useable within structured models or forecasting procedures. These datasets, specifically the creation process, is the focus of the whitepapers below. Often these datasets are used in papers following. 
 
+
 | **Project Name**         | **Completion Date**         | **Description**         | **Whitepaper**         |  **Code**        |  **Dataset**        |
 |:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
 | MACRO | February 2020 | MACRO is a quantitative competition paper that adds two original factors to the FF3 Model. | [Paper] | *Code Not Avaliable* | *No Dataset* |
