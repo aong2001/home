@@ -11,3 +11,5 @@ In the past two years I have become very interested in alternative data creation
 | MACRO | February 2020 | MACRO is a quantitative competition paper that adds two original factors to the FF3 Model. | [Paper] | *Code Not Avaliable* | *No Dataset* |
 | Exonerations | Winter 2021 | Webscraping exonerations information from UMich. | *No Paper* | [Code] | [Dataset] |
 | UT Syllabi | Winter 2021 | Created a searchable dicitionary of all UT Syallbi so that interesting courses and readings could be found. | *No Paper* | [Code] | [Dataset] |
+| Sotheby's | Spring 2022 | Collect all listed historical auction lots of Sotheby's Auction House. | Paper | [Code] | [Dataset] |
+| Legos | Spring 2022 | Collected all avaliable Lego products at time-of-collection. | [No Paper] | [Code] | [Dataset] |
