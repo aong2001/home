@@ -15,6 +15,6 @@ In the past two years I have become very interested in alternative data creation
 | Legos | Spring 2022 | Collected all avaliable Lego products at time-of-collection. | [No Paper] | [Code] | [Dataset] |
 | Reddit | Fall 2022 | Sentiment analysis tracker accross various subreddits. | Paper | [Code] | [Dataset] |
 | Backtester | Fall 2022 | Built a complete quantitative backtest program. | Paper | [Code] | [Dataset] |
-| Congress Funding | Fall 2022 | Built and API that provides a variety of data on Congressional members. | Paper | [Code] | [Dataset] |
-
+| Congressional Funding | Fall 2022 | Built an API that provides a variety of data on Congressional members. | Paper | [Code] | [Dataset] |
+| Company Clustering | Fall 2022 | Pulls SEC filing companies locations and utilizes Google API to find distances between. | [No Paper] | [Code] | [Dataset] |
 *Note: Some datasets/projects have exports of XML or HTML files. These are not included because of their size.*
