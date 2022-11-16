@@ -16,6 +16,6 @@ In the past two years I have become very interested in alternative data creation
 | Reddit | Fall 2022 | Sentiment analysis tracker accross various subreddits. | Paper | [Code] | [Dataset] |
 | Backtester | Fall 2022 | Built a complete quantitative backtest program. | Paper | [Code] | [Dataset] |
 | Congressional Funding | Fall 2022 | Built an API that provides a variety of data on Congressional members. | Paper | [Code] | [Dataset] |
-| Company Clustering | Fall 2022 | Finds distances between SEC filing firms using Google API. | [No Paper] | [Code] | [Dataset](https://github.com/aong2001/home/tree/main/Company_Clustering/Dataset) |
+| Company Clustering | Fall 2022 | Finds distances between SEC filing firms using Google API. | [No Paper] | [Code](https://github.com/aong2001/home/tree/main/Company_Clustering/Code) | [Dataset](https://github.com/aong2001/home/tree/main/Company_Clustering/Dataset) |
 
 *Note: Some datasets/projects have exports of XML or HTML files. These are not included because of their size.*
