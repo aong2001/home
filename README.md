@@ -17,4 +17,5 @@ In the past two years I have become very interested in alternative data creation
 | Backtester | Fall 2022 | Built a complete quantitative backtest program. | Paper | [Code] | [Dataset] |
 | Congressional Funding | Fall 2022 | Built an API that provides a variety of data on Congressional members. | Paper | [Code] | [Dataset] |
 | Company Clustering | Fall 2022 | Finds distances between SEC filing firms using Google API. | [No Paper] | [Code] | [Dataset] |
+
 *Note: Some datasets/projects have exports of XML or HTML files. These are not included because of their size.*
