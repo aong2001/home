@@ -1,5 +1,5 @@
 # Alexander Nelson-Groocock
-*Last Updated: November 15, 2022*
+*Last Updated: November 19, 2022*
 
 I am currently a fourth-year at the University of Texas at Austin. I am studying Business Honors and Quantitative Finance. As a student I have been very interested in traditional finance, statistics, and advanced modeling. This is a collection of academic, competition, and personal projects that I have worked on over the past few years. The whitepaper is hyperlinked and if there is supporting code or datasets created those are linked as well.
 
