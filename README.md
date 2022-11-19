@@ -19,3 +19,5 @@ In the past two years I have become very interested in alternative data creation
 | Company Clustering | Fall 2022 | Finds distances between SEC filing firms using Google API. | [No Paper] | [Code](https://github.com/aong2001/home/tree/main/Company_Clustering/Code) | [Dataset](https://github.com/aong2001/home/tree/main/Company_Clustering/Dataset) |
 
 *Note: Some datasets/projects have exports of XML or HTML files. These are not included because of their size.*
+
+Additionally, there is a non-exhaustive list of academic publications or various topics included. I started keeping this list in mid-2022 for my own reference and for completeness have included it as well. 
