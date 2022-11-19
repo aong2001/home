@@ -1,0 +1,7 @@
+Mikolov, T. et al. (####). Distributed Representations ofWords and Phrases and their Compositionality. Google, Inc. 
+Brown, P. et al. (1992). Class-Based n-gram Models of Natural Language. Computation Linguistics, Vol. 18, No. 4
+Vinyals, O., & Kaiser, L. (####). Grammar as a Foreign Language. Google, Inc. 
+Hindle, D., & Rooth, M. (####). Structural Ambiguity and Lexical Relations. Computational Linguistics, Vol. 19, No. 1
+Le, Q., & Mikolov, T. (2014). Distributed Representations of Sentences and Documents. JMLR: W&CP Vol. 32
+Yang, Z. et al. (2019). XLNet: Generalized Autoregressive Pretraining for Language Understanding 33rd Conference on Neural Information Processing Systems
+Liu, X. et al. (2019). Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding
